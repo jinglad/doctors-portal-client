@@ -1,12 +1,12 @@
 .header-bg {
-    height:830px;
+    height:930px;
     width: 100%;
     position:relative;
     background-image: url('../../../images/chairBg.png');
     background-size: cover;
 }
 .header-bg::after{
-    height:100%;
+    height:830px;
     content:' ';
     position: absolute;
     top: 0;
